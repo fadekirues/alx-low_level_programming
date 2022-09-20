@@ -27,7 +27,7 @@ void rev_string(char *s)
 * Return: the length of the given string
 */
 
-int _strlen(char *s)int _strlen(char *s)
+int _strlen(char *s)
 {
 	int len = 0;
 
