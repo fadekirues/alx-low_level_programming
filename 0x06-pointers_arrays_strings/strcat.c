@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _strcat - concentrates the string pointed to by @src to
+ *_strcat - concentrates the string pointed to by @src to
  * the end of the string pointed to by @dest
- * @dest: String that will be appended
- * @src: String to be concentrated upon
+ *@dest: String that will be appended
+ *@src: String to be concentrated upon
  *
  * Return: returns pointer to @dest
  */
